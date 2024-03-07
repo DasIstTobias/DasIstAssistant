@@ -1,2 +1,3 @@
-# Speech To Text
-Ein Programm mit HTML Nutzeroberfläche, welches Sprache in Text fasst.
+# DasIstAssistant
+Wenn das Fertig ist, wird das ein Sprachassistent mit HTML Benutzeroberfläche. <br>
+Voraussichtlich erstmal nur in GoogleChrome und Chromium basierten Browsern nutzbar.
